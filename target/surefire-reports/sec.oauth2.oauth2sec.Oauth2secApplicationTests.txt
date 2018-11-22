@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sec.oauth2.oauth2sec.Oauth2secApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.149 s - in sec.oauth2.oauth2sec.Oauth2secApplicationTests

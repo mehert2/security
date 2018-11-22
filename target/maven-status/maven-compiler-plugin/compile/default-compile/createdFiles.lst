@@ -1,0 +1,7 @@
+sec\oauth2\oauth2sec\Oauth2ResServer.class
+sec\oauth2\oauth2sec\Oauth2AppCtxInitializer.class
+sec\oauth2\oauth2sec\Oauth2ServletConfig.class
+sec\oauth2\oauth2sec\Oauth2UserDetailsService.class
+sec\oauth2\oauth2sec\ServiceDesk.class
+sec\oauth2\oauth2sec\Oauth2WebMvc.class
+sec\oauth2\oauth2sec\Oauth2secApplication.class
